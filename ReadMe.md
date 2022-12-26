@@ -7,12 +7,13 @@
 # sample_lst.md  
 # Toppers v1.9.1 aspディレクトリ 
 asp  
-RX対応Toppers asp を[https://qiita.com/farmer-bism/items/2c3d0fe4c449aeb86db8]の参考サイトよりgit[https://github.com/farmer-bism/bismath_evalkit_target]からbismath_evalkit_targetとしてダウンロードする  その後
-Toppers v1.9.1 aspのダウンロード[https://www.toppers.jp/asp-d-download.html]にて行う
-解凍後  
-'''
+RX対応Toppers asp を[https://qiita.com/farmer-bism/items/2c3d0fe4c449aeb86db8]の参考サイトより  
+git[https://github.com/farmer-bism/bismath_evalkit_target]からbismath_evalkit_targetとしてダウンロードする  
+その後[Toppers v1.9.1 asp]のダウンロード[https://www.toppers.jp/asp-d-download.html]にて行う  
+解凍後    
+```
 psw 
  [任意の環境ディレクトリ]/asp
 ./setting.sh] 解凍したbismath_evalkit_targetのディレクトリ
-'''
+```
 でデモ用の環境を構築する
