@@ -14,6 +14,6 @@ git[https://github.com/farmer-bism/bismath_evalkit_target] からbismath_evalkit
 ```
 psw 
  [任意の環境ディレクトリ]/asp
-./setting.sh] 解凍したbismath_evalkit_targetのディレクトリ
+./setting.sh  [解凍したbismath_evalkit_targetのディレクトリ]
 ```
 でデモ用の環境を構築する
