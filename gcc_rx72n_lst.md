@@ -10,12 +10,12 @@
 ./prc_stddef.h	|	TOPPERS_RX63N->TOPPERS_RX72N　プロセッサ略称文字列変更
 ./prc_syssvc.h  |　変更なし
 ./prc_user.txt  |　変更なし
-./rx72n.h		|	RX63N->RX72N　文字列変更 EDMAC割り込み番号変更/CMT2 割り込み番号変更
-./rx72n.tf		|	RX63N->RX72N　文字列変更 割り込み番号列変更
-./rx72n_config.c |	EDMAC割り込み予約番号変更
-./rx72n_config.h |	RX63N->RX72N　文字列変更
-./rx72n_elf.ld   | 　変更なし
-./rx72n_support.c |　変更なし
-./rx72n_support.h |　変更なし
+./rx72n.h		|	RX63N->RX72N　文字列変更 EDMAC割り込み番号変更/CMT2 割り込み番号変更(ファイル名変更)
+./rx72n.tf		|	RX63N->RX72N　文字列変更 割り込み番号列変更(ファイル名変更)
+./rx72n_config.c |	EDMAC割り込み予約番号変更(ファイル名変更)
+./rx72n_config.h |	RX63N->RX72N　文字列変更(ファイル名変更)
+./rx72n_elf.ld   | 　変更なし(ファイル名変更)
+./rx72n_support.c |　変更なし(ファイル名変更)
+./rx72n_support.h |　変更なし(ファイル名変更)
 ./start.S		|	不要な初期化を削除
 <br>  
